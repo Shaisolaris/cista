@@ -1,7 +1,8 @@
 /*build*
-/.vscode
 /.idea
 /out
 /.vs
 /CMakeSettings.json
 *.bin
+config.bat
+node_modules
